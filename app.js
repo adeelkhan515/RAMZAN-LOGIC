@@ -2,7 +2,7 @@
 
 
 
-let ramadanDate = new Date("2026-02-17T00:00:00");
+let ramadanDate = new Date("2026-02-17");
 
 
 let currentDate = new Date();
@@ -22,4 +22,5 @@ console.log("Remaining time until Ramadan 2026:");
 console.log("Months: " + totalMonths);
 console.log("Weeks: " + totalWeeks);
 console.log("Days: " + totalDays);
+
 
